@@ -41,7 +41,7 @@
 </p>
 
 - [**Input_Handler**](https://github.com/Hotment/Input_Handler): Flexible input management library for versatile projects.
-- [**volumeshader-simulator**](https://github.com/Hotment/volumeshader-simulator): Simulate and visualize volumetric shading in Python.
+- [**volumeshader-simulator**](https://github.com/Hotment/volumeshader-simulator): Simulate and benchmark different devices.
 
 ---
 
